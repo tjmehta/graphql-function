@@ -1,6 +1,6 @@
 {
   "name": "graphql-function",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "GraphQL Function Type",
   "main": "index.js",
   "scripts": {
