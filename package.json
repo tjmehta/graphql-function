@@ -8,7 +8,9 @@
     "test-watch": "nodemon -x mocha ./test",
     "lint": "standard"
   },
-  "dependencies": {},
+  "dependencies": {
+    "assert-err": "^1.0.0"
+  },
   "devDependencies": {
     "chai": "^3.5.0",
     "istanbul": "^0.4.4",
